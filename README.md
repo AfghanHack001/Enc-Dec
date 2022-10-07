@@ -16,4 +16,15 @@ cd Enc-Dec
 
 ls
 
-python 
+python emoji-encrypt_enc.py
+
+
+# 2Sn👇
+
+git clone https://github.com/AfghanHack001/Enc-Dec
+
+cd Enc-Dec
+
+ls
+
+python2 encrypt_decrypt_enc.py
