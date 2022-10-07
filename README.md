@@ -10,4 +10,10 @@ pkg install python
 
 rm -rf Enc-Dec
 
-git clone 
+git clone https://github.com/AfghanHack001/Enc-Dec
+
+cd Enc-Dec
+
+ls
+
+python 
